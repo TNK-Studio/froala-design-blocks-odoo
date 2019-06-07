@@ -1,0 +1,7 @@
+<odoo>
+    <template id="assets_frontend" inherit_id="website.assets_frontend" name="Froala Design Blocks Front-end assets">
+        <xpath expr="//link[last()]" position="after">
+            <link rel="stylesheet" type="text/scss" href="/froala_block_base/static/src/css/froala_blocks.min.css"/>
+        </xpath>
+    </template>
+</odoo>
