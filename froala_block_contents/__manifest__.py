@@ -6,7 +6,7 @@
     'description': "Froala Design Blocks of Content",
     'author': "Ruter, TNK Studio",
     'website': "https://github.com/ruter/froala-design-blocks-odoo",
-    'category': 'Theme/Corporate',
+    'category': 'Website',
     'version': '12.0.1.0.0',
     'depends': ['froala_block_base'],
     'data': [
