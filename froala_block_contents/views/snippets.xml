@@ -372,10 +372,10 @@
                             <strong>Works in every browser:</strong>
                         </p>
                         <p class="h1 text-muted">
-                            <i class="fa fa-chrome mr-3"/>
-                            <i class="fa fa-safari mr-3"/>
-                            <i class="fa fa-firefox mr-3"/>
-                            <i class="fa fa-edge"/>
+                            <i class="fa fa-chrome mr-3"></i>
+                            <i class="fa fa-safari mr-3"></i>
+                            <i class="fa fa-firefox mr-3"></i>
+                            <i class="fa fa-edge"></i>
                         </p>
                     </div>
                     <div class="col-12 col-md-8 m-auto ml-lg-auto mr-lg-0 col-lg-6 pt-5 pt-lg-0">
@@ -874,75 +874,53 @@
                 <t t-snippet="froala_block_contents.fdb_content_block_10"
                    t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/10.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_11"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/11.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/11.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_12"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/12.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/12.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_13"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/13.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/13.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_14"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/14.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/14.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_15"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/15.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/15.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_16"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/16.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/16.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_17"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/17.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/17.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_18"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/18.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/18.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_19"
                    t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/19.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_20"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/20.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/20.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_21"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/21.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/21.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_22"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/22.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/22.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_23"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/23.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/23.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_24"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/24.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/24.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_25"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/25.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/25.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_26"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/26.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/26.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_27"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/27.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/27.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_28"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/28.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/28.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_29"
                    t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/29.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_30"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/30.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/30.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_31"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/31.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/31.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_32"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/32.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/32.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_33"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/33.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/33.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_34"
-                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/34.jpg">
-                </t>
+                   t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/34.jpg"/>
                 <t t-snippet="froala_block_contents.fdb_content_block_35"
                    t-thumbnail="/froala_block_base/static/src/img/snippets_thumbs/contents/35.jpg"/>
             </div>
